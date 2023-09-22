@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>One Piece (1999-) ratings - Rating Graph</title>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="#ffd040" name="theme-color"/>
+<meta content="Graphs about ratings and trends of the One Piece TV show based on 1643757 user ratings." name="description"/>
+<meta content="one piece, tv show, ratings, trends, graphs" name="keywords"/>
+<meta content="index, follow" name="robots"/>
+<meta content="2DBveVhNVr9s4RsGcoQqvwu0SA7FEhu-uIsKrt8AuUg" name="google-site-verification"/>
+<meta content="839B703E7C748A99BF2CDD181494114F" name="msvalidate.01"/>
+<meta content="none" name="msapplication-config"/>
+<link href="https://cdn.ratingraph.com" rel="preconnect"/>
+<link href="https://www.google-analytics.com" rel="preconnect"/>
+<link as="font" crossorigin="anonymous" href="https://cdn.ratingraph.com/assets/fonts/fa-regular-400.woff" rel="preload" type="font/woff"/>
+<link as="font" crossorigin="anonymous" href="https://cdn.ratingraph.com/assets/fonts/fa-solid-900.woff" rel="preload" type="font/woff"/>
+<link href="https://pagead2.googlesyndication.com" rel="dns-prefetch"/>
+<link href="https://tpc.googlesyndication.com" rel="dns-prefetch"/>
+<meta content="https://www.ratingraph.com/tv-shows/one-piece-ratings-17673/" property="og:url"/>
+<meta content="Rating Graph" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="https://cdn.ratingraph.com/assets/images/shows/one-piece-poster-17673.jpg" property="og:image"/>
+<meta content="One Piece (1999-) ratings - Rating Graph" property="og:title"/>
+<meta content="Graphs about ratings and trends of the One Piece TV show based on 1643757 user ratings." property="og:description"/>
+<meta content="en_US" property="og:locale"/>
+<link href="https://cdn.ratingraph.com/assets/images/icon-180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://cdn.ratingraph.com/assets/images/icon-32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://cdn.ratingraph.com/assets/images/icon-16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="https://www.ratingraph.com/manifest.json" rel="manifest"/>
+<link href="https://www.ratingraph.com/tv-shows/one-piece-ratings-17673/" rel="canonical"/>
+<link href="https://amp.ratingraph.com/tv-shows/one-piece-ratings-17673/" rel="amphtml"/>
+<style>body{background-image:url('https://cdn.ratingraph.com/assets/images/pattern.png')}div.wrapper{background-image:url('https://cdn.ratingraph.com/assets/images/film.png')}header label.logo{background-image:url('https://cdn.ratingraph.com/assets/images/ratingraph.png')}@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:400;font-display:swap;src:url('https://cdn.ratingraph.com/assets/fonts/fa-regular-400.woff') format('woff')}@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:900;font-display:swap;src:url('https://cdn.ratingraph.com/assets/fonts/fa-solid-900.woff') format('woff')}@font-face{font-family:'Font Awesome 5 Brands';font-style:normal;font-display:swap;src:url('https://cdn.ratingraph.com/assets/fonts/fa-brands-400.woff') format('woff')}.fa,.fas,.far,.fal,.fad,.fab{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-rotate-90,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-flip-both{-webkit-filter:none;filter:none}.fa-search:before{content:"\f002"}.fa-chart-line:before{content:"\f201"}.fa-tv:before{content:"\f26c"}.fa-film:before{content:"\f008"}.fa-cubes:before{content:"\f1b3"}.fa-heart:before{content:"\f004"}.fa-tablet-alt:before{content:"\f3fa"}.fa-laptop:before{content:"\f109"}.fa-copyright:before{content:"\f1f9"}.fa-lock:before{content:"\f023"}.fa-pen-nib:before{content:"\f5ad"}.fa-envelope:before{content:"\f0e0"}.fa-window-close:before{content:"\f410"}.fa-image:before{content:"\f03e"}.fa-check:before{content:"\f00c"}.fa-times:before{content:"\f00d"}.fa-times-circle:before{content:"\f057"}.fa-play-circle:before{content:"\f144"}.fa-chevron-left:before{content:"\f053"}.fa-chevron-right:before{content:"\f054"}.fa-spinner:before{content:"\f110"}.fa-quote-left:before{content:"\f10d"}.fa-quote-right:before{content:"\f10e"}.fa-wikipedia-w:before{content:"\f266"}.fa-youtube:before{content:"\f167"}.fa-google:before{content:"\f1a0"}.fa-star-half-alt:before{content:"\f5c0"}.fa-user-check:before{content:"\f4fc"}.fa-compress:before{content:"\f066"}.fa-expand:before{content:"\f065"}.fa-thumbs-up:before{content:"\f164"}.fa-history:before{content:"\f1da"}.fa-sticky-note:before{content:"\f249"}.fa-link:before{content:"\f0c1"}.fa-folder:before{content:"\f07b"}.fa-folder-open:before{content:"\f07c"}.fa-envelope:before{content:"\f0e0"}.fa-envelope-open:before{content:"\f2b6"}.fa-list:before{content:"\f03a"}.fa-bullhorn:before{content:"\f0a1"}.fa-exchange-alt:before{content:"\f362"}.fa-shield-alt:before{content:"\f3ed"}.fa-power-off:before{content:"\f011"}.far{font-family:'Font Awesome 5 Free';font-weight:400}.fa,.fas{font-family:'Font Awesome 5 Free';font-weight:900}.fab{font-family:'Font Awesome 5 Brands'}div#filters{color:#804000;width:100%;margin:0 0 12px;padding:0;position:relative;font-size:14px;text-align:left;box-sizing:border-box;line-height:normal;background-color:#fff}div#filters div.content{margin:0;padding:0 4px 8px;display:block;overflow:scroll;overflow-x:auto;overflow-y:hidden;line-height:0;white-space:nowrap;scrollbar-width:thin}div#filters div.content::-webkit-scrollbar{width:8px;height:8px}div#filters div.content::-webkit-scrollbar-thumb{border-radius:4px;background-color:#d5b273}div#filters div.header{float:left;width:24px;height:92px;margin:0 4px;padding:0;display:block;background-size:contain}div#filters div.filter{border:1px solid #d5b273;margin:0 4px;padding:4px 8px 8px;display:inline-block;line-height:26px;background-color:#ffe8a0}div#filters div.filter span{margin:0;padding:0;display:block}div#filters div.filter span:nth-of-type(2){font-size:12px}div#filters div.filter span label{margin:0;padding:0;display:inline}div#filters div.filter select,div#filters div.filter input{color:#000;width:160px;height:24px;border:none;margin:0;padding:2px 4px;font-size:14px;box-sizing:border-box;line-height:normal;background-color:#fff}div#filters div.filter input{width:76px;line-height:20px}div#filters div.filter input:first-of-type{margin-right:8px}div#filters div.controls{margin:0;padding:8px 8px 0;display:block}div#filters div.controls a{color:#804000;cursor:pointer;margin:0;padding:8px 12px;display:inline-block;font-size:14px;line-height:normal;text-decoration:none;background-color:#ffe8a0;user-select:none;-ms-user-select:none;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:rgba(255,255,255,0)}div#filters div.controls a:first-of-type{margin-right:8px}div#filters div.controls a i[class]{color:rgba(128,64,0,.66);width:18px;text-align:center;margin-right:6px}div#filters div.controls a:hover i[class]{color:rgba(128,64,0,1)}html{scroll-behavior:smooth}html *{max-height:999999px}body{color:#000;margin:0;padding:0;font-size:14px;font-style:normal;text-align:left;font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;font-weight:400;line-height:normal;background-color:#ffc000;background-repeat:repeat}html,body{-ms-text-size-adjust:none;-moz-text-size-adjust:none;-webkit-text-size-adjust:none}a,ul,li,input,button,select{resize:none;outline:none;-webkit-tap-highlight-color:transparent}div.clear{clear:both;margin:0;padding:0;display:block;position:relative}div.spacer{height:4px;margin:0;padding:0;display:block;position:relative}::-webkit-input-placeholder{color:#707070;opacity:1}::-moz-placeholder{color:#707070;opacity:1}:-moz-placeholder{color:#707070;opacity:1}::-ms-input-placeholder{color:#707070;opacity:1}:-ms-input-placeholder{color:#707070;opacity:1}div.wrapper{margin:0 auto;padding:12px;display:block;z-index:0;position:relative;min-width:320px;max-width:1134px;box-sizing:border-box;font-style:normal;text-align:center;font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;font-weight:400;background-size:auto;background-color:#ffc000;background-repeat:no-repeat;background-position:left top}header{color:#fff;margin:0 0 16px;padding:0;display:block}header label.logo,div.search{float:left;width:auto;height:auto;margin:0 0 16px;padding:0;display:block;position:relative}header label.logo{color:rgba(0,0,0,0);width:262px;height:63px;margin:0 24px 16px 0;background-size:contain}div.search{float:right}div.search input{color:rgba(0,0,0,1);width:296px;height:28px;border:none;margin:0;padding:0 8px 0 32px;display:block;position:relative;font-size:15px;box-sizing:border-box;line-height:normal;background-color:#fff}div.search>i[class]{top:6px;left:8px;color:rgba(0,0,0,.66);width:18px;height:16px;position:absolute;font-size:15px;text-align:center}div.search:hover>i[class]{color:rgba(0,0,0,1)}div.search .results{top:28px;left:0;width:296px;height:290px;margin:0;padding:0;display:block;z-index:2;box-sizing:border-box;border-bottom:1px solid #ffc000;background-color:#fff}div.search .results.hidden{display:none}div.search .results.desktop{height:auto;position:absolute}div.search .result{color:#000;width:296px;height:26px;margin:0;display:block;padding:0 8px;position:relative;overflow:hidden;font-size:15px;text-align:left;box-sizing:border-box;border-top:1px solid #ffc000;line-height:25px;white-space:nowrap;text-overflow:ellipsis;text-decoration:none}div.search .result.loading,div.search .result.empty{color:#707070;text-align:center;line-height:26px}div.search .result.browse,div.search .result.close{left:0;bottom:0;cursor:pointer;position:absolute;font-size:13px;text-align:center;background-color:#ffe8a0}div.search .result.browse{bottom:26px}div.search .result.browse.desktop{left:auto;bottom:auto;position:relative}div.search .result i[class]{color:rgba(0,0,0,.66);width:18px;text-align:center;margin-right:6px}div.search .result:hover i[class]{color:rgba(0,0,0,1)}div.search .result span{color:#707070}header nav{margin:0 0 4px;padding:0;display:block}header nav a{float:left;color:#804000;width:auto;height:auto;margin:0 12px 12px 0;padding:0 12px;display:block;overflow:hidden;font-size:16px;text-align:left;box-sizing:border-box;font-weight:700;line-height:26px;text-shadow:1px 1px 0px rgba(0,0,0,.1);text-decoration:none;background-color:rgba(255,255,255,.5)}header nav a:last-of-type{margin-right:0}header nav a i[class]{color:rgba(128,64,0,.66);width:18px;margin:0 8px 0 0;text-align:center}header nav a:hover i[class]{color:rgba(128,64,0,1)}header nav a.active{color:#fff;background-color:#d00}header nav a.active i[class]{color:#fff}header div.intro{color:#000;margin:0;padding:0;display:block;font-size:14px;text-align:justify;line-height:19px;text-shadow:1px 1px 0px rgba(0,0,0,.1)}header div.intro b{color:#d00}header div.intro b i[class]{margin:0 6px 0 0}main{width:100%;margin:0;padding:0;display:block;background-color:#fff}section{color:#000;margin:0 0 8px;padding:8px 0 0;display:block;font-size:14px;text-align:justify;box-sizing:border-box;line-height:18px}section>h1,section>span.heading{margin:0 8px;padding:0;display:block;font-size:18px;text-align:left;font-weight:700;line-height:22px;text-shadow:1px 1px 0px rgba(0,0,0,.1)}section>span.heading{color:#804000;margin:0 0 12px;padding:6px 18px 6px 8px;font-size:14px;border-top:1px solid #d5b273;line-height:18px;text-shadow:none;border-bottom:1px solid #d5b273;background-color:#ffe8a0}section>span.heading i{font-weight:400}section>h1 i[class]{color:rgba(221,0,0,.66);width:22px;text-align:center;margin-right:8px}section>span.heading i[class]{color:rgba(128,64,0,.66);width:18px;text-align:center;font-weight:700;margin-right:6px}section>label,section>span.info{color:#606060;margin:0 8px 12px;padding:4px 0 8px;display:block;font-size:12px;line-height:17px;border-bottom:1px dashed #ccc}section>span.info{margin:0;padding:0 8px 8px;border-bottom:none}section>span.info i[class]{color:#d5b273;width:18px;margin:0 4px 0 0;text-align:center}section>article,section>p{margin:0 8px;padding:0 0 12px;display:block;font-size:13px}section>p.description{display:inline-block}section>p b{color:#804000}section>p i[class]{color:#d5b273;width:18px;margin:0 4px 0 0;text-align:center}section>p i[class]:last-of-type{margin:0 0 0 4px}section>div.links,div.partners{margin:0 8px 0 0;padding:0 0 4px;display:block;text-align:left}section>div.links{max-width:716px}div.partners{padding:8px 0 0}section>div.links a,div.partners a,div.partners b{color:#804000;margin:0 0 8px 8px;padding:4px 8px;display:inline-block;font-size:13px;text-decoration:none;background-color:#ffe8a0}div.partners b{padding:4px 0;background-color:transparent}section>div.links a i[class],div.partners a i[class]{color:rgba(128,64,0,.66);width:18px;text-align:center;margin-right:6px}section>div.links a:hover i[class],div.partners a:hover i[class]{color:rgba(128,64,0,1)}section>img.poster,section>amp-img.poster{float:left;width:132px;height:194px;border:1px solid #000;margin:0 8px 12px;padding:0;display:block;background-color:#000}section>table{float:left;color:#000;width:auto;height:auto;margin:0 0 12px;padding:0;display:block;font-size:14px;max-width:410px;min-height:196px;box-sizing:border-box;text-align:left;line-height:16px;border-spacing:0px;border-collapse:separate}section>table th,section>table td{margin:0;padding:4px;vertical-align:middle}section>table th{color:#804000;font-weight:700}section>table td span{color:#804000}section>table.movie th,section>table.movie td{padding:11px 4px}section>table.franchise th,section>table.franchise td{padding:8px 4px}section>table.director th,section>table.director td,section>table.writer th,section>table.writer td{padding:6px 4px}@media screen and (max-width:640px){section>img.poster,section>amp-img.poster{width:100px;height:147px}section>table{min-height:149px}}@media(max-width:1152px){section>table{float:none}section>table.movie th,section>table.movie td,section>table.franchise th,section>table.franchise td,section>table.director th,section>table.director td,section>table.writer th,section>table.writer td{padding:4px}}section>div.table_wrapper{width:auto;height:560px;margin:0;padding:0;display:block}section a{color:#d00;text-decoration:none}section a:hover{text-decoration:underline}div.titles,div.titles.results{color:#804000;width:100%;margin:0;padding:0 0 12px;position:relative;text-align:left;box-sizing:border-box;line-height:normal}div.titles.results{padding:0 4px 4px}div.titles div.content{margin:0;padding:0 4px 8px;display:block;overflow:scroll;overflow-x:auto;overflow-y:hidden;line-height:0;white-space:nowrap;scrollbar-width:thin}div.titles div.content::-webkit-scrollbar{width:8px;height:8px}div.titles div.content::-webkit-scrollbar-thumb{border-radius:4px;background-color:#d5b273}div.titles div.content a,div.titles.results a{width:132px;height:194px;border:1px solid #000;margin:0 4px;padding:0;display:inline-block;position:relative;text-decoration:none}div.titles.results a{float:left;margin:0 4px 8px}div.titles div.content a img,div.titles div.content a amp-img,div.titles.results a img,div.titles.results a amp-img{top:0;left:0;width:132px;height:194px;position:absolute;background-color:#000}div.titles div.content a span,div.titles.results a span{left:0;right:0;bottom:0;color:#fff;width:100%;height:auto;padding:6px;position:absolute;overflow:hidden;font-size:12px;text-align:center;box-sizing:border-box;line-height:17px;white-space:nowrap;text-shadow:1px 1px 0px rgba(0,0,0,.1);text-overflow:ellipsis;background-color:rgba(0,0,0,.5)}div.titles.results a span{white-space:normal}div.titles div.content a span b{line-height:22px}div.titles.results a span b i[class]{margin-right:6px}a.switch{color:#804000;width:100%;height:26px;margin:0 0 12px;padding:0;display:block;font-size:14px;text-align:center;box-sizing:border-box;font-weight:700;line-height:26px;text-shadow:1px 1px 0px rgba(0,0,0,.1);text-decoration:none;background-color:rgba(255,255,255,.5)}a.switch i[class]{color:rgba(128,64,0,.66);width:18px;text-align:center;margin-right:6px}a.switch:hover i[class]{color:rgba(128,64,0,1)}footer{color:#000;margin:0;padding:8px;display:block;font-size:13px;text-align:justify;text-shadow:1px 1px 0px rgba(0,0,0,.1);line-height:22px}footer i[class]{margin-right:6px}footer a{color:#804000;width:auto;height:26px;cursor:pointer;margin:6px 12px 6px 0;padding:0 12px;display:inline-block;font-size:14px;text-align:left;box-sizing:border-box;font-weight:700;line-height:26px;text-decoration:none;background-color:rgba(255,255,255,.5)}footer a:last-of-type{margin-right:8px}footer a i[class]{color:rgba(128,64,0,.66);width:18px;text-align:center}footer a:hover i[class]{color:rgba(128,64,0,1)}footer a.active{color:#fff;background-color:#d00}footer a.active i[class]{color:#fff}div.loading{color:#000;width:100%;height:100%;margin:0;padding:0;font-size:15px;text-align:center;font-weight:700;background-color:#fff}div.loading i[class]{color:rgba(0,0,0,.66);width:18px;text-align:center;margin-right:6px}header label.logo,header nav a,div.partners a,section>div.links a,div.search .result,div[role=listitem],div.titles div.content a,a.switch,footer a{outline:none;user-select:none;-ms-user-select:none;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:rgba(255,255,255,0)}.qc-cmp2-persistent-link{background-color:#276399}</style>
+<style>div#filters div.header{background-image:url('https://cdn.ratingraph.com/assets/images/filters.png')}table.dataTable thead .sorting{background-image:url('https://cdn.ratingraph.com/assets/images/sort-both.png')}table.dataTable thead .sorting_asc{background-image:url('https://cdn.ratingraph.com/assets/images/sort-asc.png')}table.dataTable thead .sorting_desc{background-image:url('https://cdn.ratingraph.com/assets/images/sort-desc.png')}table.dataTable thead .sorting_asc_disabled{background-image:url('https://cdn.ratingraph.com/assets/images/sort-asc-disabled.png')}table.dataTable thead .sorting_desc_disabled{background-image:url('https://cdn.ratingraph.com/assets/images/sort-desc-disabled.png')}</style>
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script>
+    (function(){var host=window.location.hostname;var element=document.createElement("script");var firstScript=document.getElementsByTagName("script")[0];var url="https://cmp.quantcast.com".concat("/choice/","CbXAeETdvN-u3","/",host,"/choice.js?tag_version=V2");var uspTries=0;var uspTriesLimit=3;element["async"]=true;element.type="text/javascript";element.src=url;firstScript.parentNode.insertBefore(element,firstScript);function makeStub(){var TCF_LOCATOR_NAME="__tcfapiLocator";var queue=[];var win=window;var cmpFrame;function addFrame(){var doc=win.document;var otherCMP=!!win.frames[TCF_LOCATOR_NAME];if(!otherCMP){if(doc.body){var iframe=doc.createElement("iframe");iframe.style.cssText="display:none";iframe.name=TCF_LOCATOR_NAME;doc.body.appendChild(iframe)}else{setTimeout(addFrame,5)}}return!otherCMP}function tcfAPIHandler(){var gdprApplies;var args=arguments;if(!args.length){return queue}else if(args[0]==="setGdprApplies"){if(args.length>3&&args[2]===2&&typeof args[3]==="boolean"){gdprApplies=args[3];if(typeof args[2]==="function"){args[2]("set",true)}}}else if(args[0]==="ping"){var retr={gdprApplies:gdprApplies,cmpLoaded:false,cmpStatus:"stub"};if(typeof args[2]==="function"){args[2](retr)}}else{if(args[0]==="init"&&typeof args[3]==="object"){args[3]=Object.assign(args[3],{tag_version:"V2"})}queue.push(args)}}function postMessageEventHandler(event){var msgIsString=typeof event.data==="string";var json={};try{if(msgIsString){json=JSON.parse(event.data)}else{json=event.data}}catch(ignore){}var payload=json.__tcfapiCall;if(payload){window.__tcfapi(payload.command,payload.version,function(retValue,success){var returnMsg={__tcfapiReturn:{returnValue:retValue,success:success,callId:payload.callId}};if(msgIsString){returnMsg=JSON.stringify(returnMsg)}if(event&&event.source&&event.source.postMessage){event.source.postMessage(returnMsg,"*")}},payload.parameter)}}while(win){try{if(win.frames[TCF_LOCATOR_NAME]){cmpFrame=win;break}}catch(ignore){}if(win===window.top){break}win=win.parent}if(!cmpFrame){addFrame();win.__tcfapi=tcfAPIHandler;win.addEventListener("message",postMessageEventHandler,false)}}makeStub();var uspStubFunction=function(){var arg=arguments;if(typeof window.__uspapi!==uspStubFunction){setTimeout(function(){if(typeof window.__uspapi!=="undefined"){window.__uspapi.apply(window.__uspapi,arg)}},500)}};var checkIfUspIsReady=function(){uspTries++;if(window.__uspapi===uspStubFunction&&uspTries<uspTriesLimit){console.warn("USP is not accessible")}else{clearInterval(uspInterval)}};if(typeof window.__uspapi==="undefined"){window.__uspapi=uspStubFunction;var uspInterval=setInterval(checkIfUspIsReady,6e3)}})();
+  </script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org","@type":"TVSeries","url":"https:\/\/www.ratingraph.com\/tv-shows\/one-piece-ratings-17673\/","name":"One Piece","description":"There once lived a pirate named Gol D. Roger. He obtained wealth, fame, and power to earn the title of Pirate King. When he was captured and about to be executed, he revealed that his treasure called One Piece was hidden somewhere at the Grand Line. This made all people set out to search and uncover the One Piece treasure, but no one ever found the location of Gol D. Roger&#039;s treasure, and the Grand Line was too dangerous a place to overcome. Twenty-two years after Gol D. Roger&#039;s death, a boy named Monkey D. Luffy decided to become a pirate and search for Gol D. Roger&#039;s treasure to become the next Pirate King.","genre":["Animation","Action","Adventure"],"director":[{"@type":"Person","name":"Mamoru Hosoda","url":"\/directors\/mamoru-hosoda-ratings-37637\/"},{"@type":"Person","name":"Takaaki Ishiyama","url":"\/directors\/takaaki-ishiyama-ratings-29988\/"}],"author":[{"@type":"Person","name":"Andrew Rye","url":"\/writers\/andrew-rye-ratings-71207\/"},{"@type":"Person","name":"Bonny Clinkenbeard","url":"\/writers\/bonny-clinkenbeard-ratings-62931\/"},{"@type":"Person","name":"Brandon Potter","url":"\/writers\/brandon-potter-ratings-120617\/"},{"@type":"Person","name":"Clint Bickham","url":"\/writers\/clint-bickham-ratings-116434\/"},{"@type":"Person","name":"Eiichir\u00f4 Oda","url":"\/writers\/eiichir-oda-ratings-120613\/"},{"@type":"Person","name":"Eric Vale","url":"\/writers\/eric-vale-ratings-73177\/"},{"@type":"Person","name":"John Burgmeier","url":"\/writers\/john-burgmeier-ratings-73661\/"},{"@type":"Person","name":"Junki Takegami","url":"\/writers\/junki-takegami-ratings-46090\/"},{"@type":"Person","name":"Katelyn Barr","url":"\/writers\/katelyn-barr-ratings-120618\/"},{"@type":"Person","name":"Michiru Shimada","url":"\/writers\/michiru-shimada-ratings-38976\/"},{"@type":"Person","name":"Mike McFarland","url":"\/writers\/mike-mcfarland-ratings-120620\/"},{"@type":"Person","name":"Sean Teague","url":"\/writers\/sean-teague-ratings-73662\/"},{"@type":"Person","name":"Spencer Prokop","url":"\/writers\/spencer-prokop-ratings-64772\/"}],"image":"https:\/\/cdn.ratingraph.com\/assets\/images\/shows\/one-piece-poster-17673.jpg","keywords":"one piece, tv show, ratings, trends, graphs","inLanguage":"English","dateCreated":"1999","isAccessibleForFree":true,"aggregateRating":{"@type":"AggregateRating","name":"Rating","bestRating":"10","worstRating":"1","ratingValue":"8.0","ratingCount":"1643757"}},{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rating Graph","item":"https:\/\/www.ratingraph.com\/"},{"@type":"ListItem","position":2,"name":"TV show ratings","item":"https:\/\/www.ratingraph.com\/tv-shows\/"},{"@type":"ListItem","position":3,"name":"One Piece","item":"https:\/\/www.ratingraph.com\/tv-shows\/one-piece-ratings-17673\/"}]}]</script>
+</head>
+<body>
+<div class="wrapper">
+<header>
+<label class="logo" for="search">RatinGraph</label>
+<div class="search">
+<input autocomplete="off" id="search" placeholder="Search here for anything..." type="text" value=""/>
+<i class="fas fa-search"></i>
+<div class="results desktop hidden"></div>
+</div>
+<div class="clear"></div>
+<nav>
+<a href="https://www.ratingraph.com/"><i class="fas fa-chart-line"></i>Home</a>
+<a class="active" href="https://www.ratingraph.com/tv-shows/"><i class="fas fa-tv"></i>TV shows</a>
+<a href="https://www.ratingraph.com/movies/"><i class="fas fa-film"></i>Movies</a>
+<a href="https://www.ratingraph.com/movie-franchises/"><i class="fas fa-cubes"></i>Movie franchises</a>
+<a href="https://www.ratingraph.com/directors/"><i class="fas fa-bullhorn"></i>Directors</a>
+<a href="https://www.ratingraph.com/writers/"><i class="fas fa-pen-nib"></i>Writers</a>
+<div class="clear"></div>
+</nav>
+<div class="intro">Rating Graph is an online visualization tool which generates fancy <strong>graphs</strong> about TV shows and Movies based on 1205 million <strong>user ratings</strong>. <b><i class="fas fa-heart"></i>Find your next binge-watch!</b></div>
+</header>
+<main> <section>
+<h1><i class="fas fa-tv"></i>One Piece ratings (TV show, 1999-)</h1>
+<label><strong>Rank</strong> is based on the average number of votes per episode adjusted with the average rating. <strong>Trend</strong> represents the amount of new votes submitted during the past 7 days.</label>
+<div class="links">
+<a href="#ratings"><i class="fas fa-star-half-alt"></i>Ratings</a>
+<a href="#votes"><i class="fas fa-user-check"></i>Votes</a>
+<a href="#history"><i class="fas fa-history"></i>History</a>
+<a href="#episodes"><i class="fas fa-list"></i>Episodes</a>
+</div>
+<img alt="One Piece" class="poster" height="194" src="https://cdn.ratingraph.com/assets/images/shows/one-piece-poster-17673.jpg" width="132"/> <table class="show">
+<tr>
+<th>Rank</th>
+<td>354 <span>/ 26,383</span></td>
+</tr>
+<tr>
+<th>Trend</th>
+<td>40,258</td>
+</tr>
+<tr>
+<th>Genres</th>
+<td>Animation, Action, Adventure</td>
+</tr>
+<tr>
+<th>Seasons</th>
+<td>1</td>
+</tr>
+<tr>
+<th>Episodes</th>
+<td>1,077</td>
+</tr>
+<tr>
+<th>Total votes</th>
+<td>1,643,757</td>
+</tr>
+<tr>
+<th>Average votes</th>
+<td>1,526</td>
+</tr>
+<tr>
+<th>Average rating</th>
+<td>8.0 <span>/ 10</span></td>
+</tr>
+</table>
+<p class="description"><i class="fas fa-quote-left"></i>There once lived a pirate named Gol D. Roger. He obtained wealth, fame, and power to earn the title of Pirate King. When he was captured and about to be executed, he revealed that his treasure called One Piece was hidden somewhere at the Grand Line. This made all people set out to search and uncover the One Piece treasure, but no one ever found the location of Gol D. Roger's treasure, and the Grand Line was too dangerous a place to overcome. Twenty-two years after Gol D. Roger's death, a boy named Monkey D. Luffy decided to become a pirate and search for Gol D. Roger's treasure to become the next Pirate King.<i class="fas fa-quote-right"></i></p>
+<div class="clear"></div>
+<span class="info"><i class="fas fa-bullhorn"></i><b>Directors:</b> <a href="/directors/mamoru-hosoda-ratings-37637/">Mamoru Hosoda</a>, <a href="/directors/takaaki-ishiyama-ratings-29988/">Takaaki Ishiyama</a></span>
+<span class="info"><i class="fas fa-pen-nib"></i><b>Writers:</b> <a href="/writers/andrew-rye-ratings-71207/">Andrew Rye</a>, <a href="/writers/bonny-clinkenbeard-ratings-62931/">Bonny Clinkenbeard</a>, <a href="/writers/brandon-potter-ratings-120617/">Brandon Potter</a>, <a href="/writers/clint-bickham-ratings-116434/">Clint Bickham</a>, <a href="/writers/eiichir-oda-ratings-120613/">Eiichirô Oda</a>, <a href="/writers/eric-vale-ratings-73177/">Eric Vale</a>, <a href="/writers/john-burgmeier-ratings-73661/">John Burgmeier</a>, <a href="/writers/junki-takegami-ratings-46090/">Junki Takegami</a>, <a href="/writers/katelyn-barr-ratings-120618/">Katelyn Barr</a>, <a href="/writers/michiru-shimada-ratings-38976/">Michiru Shimada</a>, <a href="/writers/mike-mcfarland-ratings-120620/">Mike McFarland</a>, <a href="/writers/sean-teague-ratings-73662/">Sean Teague</a>, <a href="/writers/spencer-prokop-ratings-64772/">Spencer Prokop</a></span>
+<div class="spacer"></div>
+<div class="links">
+<a href="https://en.wikipedia.org/w/index.php?search=one%20piece" rel="external noopener nofollow noreferrer" target="_blank"><i class="fab fa-wikipedia-w"></i>Search for article</a>
+<a href="https://www.youtube.com/results?search_query=one%20piece%201999%20trailer" rel="external noopener nofollow noreferrer" target="_blank"><i class="fab fa-youtube"></i>Search for trailer</a>
+<a href="https://www.google.com/search?q=one%20piece%201999%20tv%20show" rel="external noopener nofollow noreferrer" target="_blank"><i class="fab fa-google"></i>Search for everything</a>
+</div>
+<span class="info"><i class="far fa-thumbs-up"></i><b>Hint:</b> you can examine a particular season more clearly on the graphs if you disable the trendline and all other seasons (via clicking on their labels).</span>
+<span class="heading" id="ratings"><i class="fas fa-star-half-alt"></i>Episodes average rating</span>
+<button class="active" data-scale="auto" data-target="show_episodes_average_rating"><i class="fas fa-compress"></i>Autoscale</button><button data-scale="zero" data-target="show_episodes_average_rating"><i class="fas fa-expand"></i>Scale from 0</button><button data-scale="zeroten" data-target="show_episodes_average_rating"><i class="fas fa-expand"></i>Scale from 0 to 10</button><button data-target="show_episodes_average_rating" data-toggle="all"><i class="fas fa-power-off"></i>Toggle Seasons</button>
+<div class="graph" data-graph="show_episodes_average_rating" data-url="https://www.ratingraph.com/show-episodes-graph/17673/average_rating/" data-xaxis="Episodes" data-yaxis="Rating"></div> <span class="info"><i class="far fa-sticky-note"></i><b>Note:</b> season labels indicates the average rating per episode between the parentheses.</span>
+<span class="heading" id="votes"><i class="fas fa-user-check"></i>Episodes total votes</span>
+<button class="active" data-scale="auto" data-target="show_episodes_total_votes"><i class="fas fa-compress"></i>Autoscale</button><button data-scale="zero" data-target="show_episodes_total_votes"><i class="fas fa-expand"></i>Scale from 0</button><button data-target="show_episodes_total_votes" data-toggle="all"><i class="fas fa-power-off"></i>Toggle Seasons</button>
+<div class="graph" data-graph="show_episodes_total_votes" data-url="https://www.ratingraph.com/show-episodes-graph/17673/total_votes/" data-xaxis="Episodes" data-yaxis="Votes"></div> <span class="info"><i class="far fa-sticky-note"></i><b>Note:</b> season labels indicates the average votes per episode between the parentheses.</span>
+<span class="heading" id="history"><i class="fas fa-history"></i>History <i>(tracking since March 7, 2020)</i></span>
+<button class="active" data-scale="auto" data-target="show_history"><i class="fas fa-compress"></i>Autoscale</button><button data-scale="zero" data-target="show_history"><i class="fas fa-expand"></i>Scale from 0</button>
+<div class="graph" data-history="show_history" data-url="https://www.ratingraph.com/show-history/17673/"></div> <span class="info"><i class="far fa-sticky-note"></i><b>Note:</b> amount of total votes may decrease due to periodic removal of fraudulent ones.</span>
+<script>if ( typeof(tableColumnNames) !== 'object' ) { var tableColumnNames = {}; }; if ( typeof(tableColumnOrders) !== 'object' ) { var tableColumnOrders = {}; };</script>
+<script>tableColumnNames['episodes'] = [{"name":"trend","title":"Trend"},{"name":"season","title":"Season"},{"name":"episode","title":"Episode"},{"name":"name","title":"Title"},{"name":"start","title":"Year"},{"name":"total_votes","title":"Total votes"},{"name":"average_rating","title":"Average rating"}]; tableColumnOrders['episodes'] = [ [ 1, 'asc' ], [ 2, 'asc' ] ];</script>
+<div class="table_wrapper">
+<table class="display responsive" data-url="https://www.ratingraph.com/show-episodes-list/17673/" id="episodes"></table>
+</div> <span class="heading"><i class="fas fa-link"></i>Related TV shows</span>
+<div class="titles">
+<div class="content">
+<a href="https://www.ratingraph.com/tv-shows/band-of-brothers-ratings-8566/">
+<img alt="Band of Brothers" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/band-of-brothers-poster-8566.jpg" height="194" width="132"/>
+<span><b>Band of Brothers</b><br/>Total votes: 87,990<br/>Average rating: 9.0</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/buffy-the-vampire-slayer-ratings-5631/">
+<img alt="Buffy the Vampire Slayer" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/buffy-the-vampire-slayer-poster-5631.jpg" height="194" width="132"/>
+<span><b>Buffy the Vampire Slayer</b><br/>Total votes: 493,417<br/>Average rating: 8.0</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/cowboy-bebop-ratings-9829/">
+<img alt="Cowboy Bebop" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/cowboy-bebop-poster-9829.jpg" height="194" width="132"/>
+<span><b>Cowboy Bebop</b><br/>Total votes: 77,789<br/>Average rating: 8.2</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/south-park-ratings-5913/">
+<img alt="South Park" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/south-park-poster-5913.jpg" height="194" width="132"/>
+<span><b>South Park</b><br/>Total votes: 971,448<br/>Average rating: 8.0</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/futurama-ratings-6814/">
+<img alt="Futurama" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/futurama-poster-6814.jpg" height="194" width="132"/>
+<span><b>Futurama</b><br/>Total votes: 335,709<br/>Average rating: 7.7</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/angel-ratings-7260/">
+<img alt="Angel" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/angel-poster-7260.jpg" height="194" width="132"/>
+<span><b>Angel</b><br/>Total votes: 209,099<br/>Average rating: 8.1</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/star-trek-enterprise-ratings-10988/">
+<img alt="Star Trek: Enterprise" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/star-trek-enterprise-poster-10988.jpg" height="194" width="132"/>
+<span><b>Star Trek: Enterprise</b><br/>Total votes: 166,667<br/>Average rating: 7.5</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/24-ratings-12662/">
+<img alt="24" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/24-poster-12662.jpg" height="194" width="132"/>
+<span><b>24</b><br/>Total votes: 274,502<br/>Average rating: 8.3</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/family-guy-ratings-8370/">
+<img alt="Family Guy" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/family-guy-poster-8370.jpg" height="194" width="132"/>
+<span><b>Family Guy</b><br/>Total votes: 616,731<br/>Average rating: 7.1</span>
+</a>
+<a href="https://www.ratingraph.com/tv-shows/stargate-sg-1-ratings-5772/">
+<img alt="Stargate SG-1" class="lazyload" data-src="https://cdn.ratingraph.com/assets/images/shows/stargate-sg-1-poster-5772.jpg" height="194" width="132"/>
+<span><b>Stargate SG-1</b><br/>Total votes: 246,630<br/>Average rating: 7.7</span>
+</a>
+</div>
+</div>
+</section>
+</main>
+<a class="switch" href="https://amp.ratingraph.com/tv-shows/one-piece-ratings-17673/"><i class="fas fa-tablet-alt"></i>Switch to mobile version</a>
+<footer><i class="far fa-copyright"></i>2023 ratingraph.com<br/><a href="https://www.ratingraph.com/privacy/"><i class="fas fa-lock"></i>Privacy policy</a><a href="mailto:contact@ratingraph.com"><i class="fas fa-envelope"></i>Contact</a><br/><b>This website uses cookies.</b> We use cookies to personalise content and to analyse our traffic.<br/>All brands, trademarks and logos are property of their respective owners. Titles and posters used on this website are for identification purposes only, they does not imply endorsement.</footer>
+</div>
+<link href="https://cdn.ratingraph.com/assets/build/bundle.2ef41a047f1d1cdd852f2459f033f36f9f4c88ff.css" rel="stylesheet" type="text/css"/>
+<script>
+    var siteDomain = 'ratingraph.com',
+        siteHostname = 'www.ratingraph.com',
+        siteCDN = 'cdn.ratingraph.com';
+  </script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q7GQ9CCKVS"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Q7GQ9CCKVS');
+  </script>
+<script async="" src="https://cdn.ratingraph.com/assets/build/bundle.99900689566b76503bb23f69058baedc221950d6.js"></script></body>
+</html>
