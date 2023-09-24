@@ -1,5 +1,13 @@
-This repo is to analyse OnePiece anime, popularity of its episodes, put into GCS (along with a couple of summarized outputs) and BigQuery for general availability
-Dataset is picked from [Kaggle(]https://www.kaggle.com/datasets/aditya2803/one-piece-anime)
+This repo is to analyse OnePiece anime, popularity of its episodes, put into GCS (along with a couple of summarized outputs) and BigQuery for general availability.
+Input Dataset is picked from [Kaggle](https://www.kaggle.com/datasets/aditya2803/one-piece-anime)
+![Sample Data](./images/sample_data.png)
+
+
+Findings and insights are available in 
+- [BigQuery analysis](./bigquery_commands.md)
+- [Looker visualizations](./Looker_studio_view.md)
+
+
 
 ### Tech used:
 - _Google Cloud Platform_
