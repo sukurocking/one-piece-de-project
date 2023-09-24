@@ -22,6 +22,7 @@ Creating a dataset named onepiece
 bq mk --location=us-central1 onepiece 
 ```
 
+# Below loads as a native table, however we will load as an external table
 ```sh
 bq load \
     --source_format=PARQUET \

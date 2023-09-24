@@ -1,14 +1,13 @@
-- [ ] Scrape One Piece episodes tabular data from https://www.ratingraph.com/tv-shows/one-piece-ratings-17673/ (Check if API is available, if not scrape)
+- [x] Scrape One Piece episodes tabular data from https://www.ratingraph.com/tv-shows/one-piece-ratings-17673/ (Check if API is available, if not scrape)
     - Scraping the table does not seem to be feasible
     - Maybe take temporary data from https://www.kaggle.com/datasets/aditya2803/one-piece-anime
     - Downloading data one-time to GCS
-  
 - [x] Store data into a GCS bucket
-- [ ] Create a Python/Pyspark notebook to read data from the GCS bucket, clean the data and store into BigQuery, along with summarized data in a separate output
+- [x] Create a Python/Pyspark notebook to read data from the GCS bucket, clean the data and store into BigQuery, along with summarized data in a separate output
     - Create crucial derived variables (take more suggestions)
     - Take more suggestions as to what more can be done in the data cleaning & data transformation stage 
-- [ ] Convert the notebook to a Python script that can be submitted from Dataproc cluster in an automated fashion
+- [x] Convert the notebook to a Python script that can be submitted from Dataproc cluster in an automated fashion
     - Create and pass command line arguments as required
 - [ ] Need more ideas how to implement dbt, docker, terraform
 - [ ] Create a Prefect/Cloud Composer instance to automate the entire consumption from the public API/url on a weekly basis (since episodes are available on weekly basis)
-- [ ] Create a looker studio dashboard to showcase the latest episode info, high level KPIs
+- [x] Create a looker studio dashboard to showcase the latest episode info, high level KPIs
