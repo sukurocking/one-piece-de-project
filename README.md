@@ -7,7 +7,7 @@ Dataset is picked from [Kaggle(]https://www.kaggle.com/datasets/aditya2803/one-p
 - _GCS_ (to store input and output files)
     - _Python SDK_ to create bucket (if not exists) and upload the input file 
 - _Google Cloud DataProc_ (to submit PySpark job)
-- _BigQuery_
+- _BigQuery_ (for analysis)
 - _Airflow_ (to seamlessly run dependencies)
 - _Looker Studio_ (for visualization)
 
