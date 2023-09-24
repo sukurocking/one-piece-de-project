@@ -49,8 +49,10 @@ uris = ['gs://onepiece-dtc-de-course-388001/onepieceanime/outputs/overall_summar
 ![overall-summary](./images/overall_summary.png)
 
 
-Years that had the maximum breaks (having the least number of episodes)
-Generally one episode comes out per week, there should be ~52 episodes in a year, ideally
+Years that had the maximum breaks (having the least number of episodes).
+
+Generally one episode comes out per week, there should be ~52 episodes in a year, ideally.
+
 Below query excludes the years where the show began and the max year of the show
 
 ```sql
