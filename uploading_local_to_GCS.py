@@ -2,8 +2,8 @@
 from google.cloud import storage
 project="dtc-de-course-388001"
 bucket="onepiece-"+project
-source_file_name = "./onepieceanime/ONE PIECE.csv"
-destination_file_name = "onepieceanime/ONE PIECE.csv"
+source_file_name = "./onepieceanime/one_piece.csv"
+destination_file_name = "onepieceanime/input/one_piece.csv"
 from google.cloud import storage
 
 # Function to create bucket if not exists
