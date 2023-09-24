@@ -16,9 +16,11 @@ Dataset is picked from [Kaggle(]https://www.kaggle.com/datasets/aditya2803/one-p
 - Overall summary for the show
 - Actual data in summarized format
 
-
+### Links
 - [Todos](/todos.md)
-- [Questions to answer](/questions.md)
-- [Gcloud commands](/gcloud_commands.md)
+- [Questions to answer](./questions.md)
+- [Gcloud commands](./gcloud_commands.md)
+- [BigQuery commands](./bigquery_commands.md)
+- [Looker visualizations](./Looker_studio_view.md)
 
 
