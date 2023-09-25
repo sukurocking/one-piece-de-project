@@ -10,7 +10,6 @@ Input Dataset is picked from [Kaggle](https://www.kaggle.com/datasets/aditya2803
     - _Python SDK_ to create bucket (if not exists) and upload the input file [Uploading local to GCS script](./uploading_local_to_GCS.py)
 - [_Google Cloud DataProc_](./gcloud_commands.md) (to submit PySpark job)
 - [_BigQuery_](./bigquery_commands.md) (for analysis)
-- _Airflow_ (to seamlessly run dependencies)
 - [_Looker Studio_](./Looker_studio_view.md) (for visualization)
 
 ### Findings and Insights
