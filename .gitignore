@@ -1,3 +1,4 @@
 gcloud_credentials.json
+*.json
 *.tfstate
 terraform/*
